@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ahanaf<br>👀 I’m interested in Programming.<br>♠️ I'm currently working as general member in BUCC.<br>🌱 I’m currently learning different languages (Python, Php, MySQL)<br>💞️ I’m looking to collaborate on some AI/ML/Web project.<br>📫 How to reach me: can reach me through email.<br>😄 Pronouns: Aha-naf.<br>⚡ Fun fact: I am a grown up but still I love to play video games.<br>💬 Ask me about anything 
+👋 Hi, I’m Ahanaf— a passionate software developer with a love for building clean, efficient, and scalable code. 🚀<br>🔍 Always exploring new technologies and tackling challenging problems.<br>👀 I’m interested in Programming.<br>♠️ I'm currently working as general member in BUCC.<br>🌱 I’m currently learning different languages (Python, Php, MySQL)<br>🌱 Always learning and growing — open to collaborating on open-source projects and innovative ideas.<br>📫 Feel free to reach out or check out my repos! Let’s create something amazing together!<br>😄 Pronouns: Aha-naf.<br>⚡ Fun fact: I am a grown up but still I love to play video games.<br>💬 Ask me about anything 
 
 
 ## 🌐 Socials:
