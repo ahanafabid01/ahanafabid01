@@ -2,7 +2,7 @@
 👋 Hi, I’m **Ahanaf** — a passionate student and developer who loves building **clean, efficient, and scalable applications**. 🚀  
 🔍 Always exploring new technologies and tackling challenging problems.  
 💻 I specialize in **Full MERN Stack Development (MongoDB, Express.js, React, Node.js)**.  
-♠️ Currently working as the **Senior Executive at BUCC**.  
+♠️ Currently working as the **Junior Software Engineer at SSKca**.  
 🌱 Continuously learning new languages and frameworks including **Python, PHP, and MySQL**.  
 🤝 Open to collaborating on **open-source projects** and **innovative ideas**.  
 📫 Feel free to reach out or check out my repositories — let’s create something amazing together!  
