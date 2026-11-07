@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m **Ahanaf** — a passionate student and developer who loves building **clean, efficient, and scalable applications**. 🚀  
+👋 Hi, I’m **Ahanaf** - a passionate student and developer who loves building **clean, efficient, and scalable applications**. 🚀  
 🔍 Always exploring new technologies and tackling challenging problems.  
 💻 I specialize in **Full MERN Stack Development (MongoDB, Express.js, React, Node.js)**.  
 ♠️ Currently working as the **Junior Software Engineer at SSKca**.  
